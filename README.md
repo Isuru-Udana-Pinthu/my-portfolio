@@ -40,5 +40,5 @@ Modern, responsive, and SEO-friendly personal portfolio website focused on DevOp
 
 ## 👤 Author
 **Isuru Udana Pinthu**
-- GitHub: [@isurudanapinthu](https://github.com/isurudanapinthu)
+- GitHub: [@Isuru-Udana-Pinthu](https://github.com/isurudanapinthu)
 - LinkedIn: [Isuru Udana Pinthu](https://linkedin.com/in/isurudanapinthu)
