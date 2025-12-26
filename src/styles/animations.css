@@ -1,0 +1,26 @@
+/* Base styles - Rely on GSAP for initial hidden state to avoid visibility issues if JS fails */
+
+/* Only use these for manual CSS animations if needed, otherwise let GSAP handle it */
+.floating {
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+/* Ensure sections have some spacing for triggers */
+section {
+    position: relative;
+    overflow: hidden;
+}
